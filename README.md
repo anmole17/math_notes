@@ -21,7 +21,7 @@ After undergraduate mathematics, the learning of advanced topics will be the emp
 - After completion of each level of mathematics/bid topic, give me a final self-exam, without time limit, but also including all methods and examples in detail in each answer.
 	Self-checking along with taking help to check my exam if possible. 
 
-Notes are written using LaTex, there will be questions from Project Euler(To help in learning programming) or Art of Solving Problems included. 
+Notes are written using LaTex, there will be questions from Project Euler (To help in learning programming), Art of Solving Problems and other sources included. 
 
 ## Online resources used:
 
