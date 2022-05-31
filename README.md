@@ -3,7 +3,7 @@
 This is my journey to learn and understand mathematics from the basics to the advanced level. 
 Learning mathematics for fun and implication in bioinformatics and machine learning.
 
-##Aims to complete:
+## Aims to complete:
 
 1. Learn 10th class mathematics. -- Working
 	This includes basic algebra, trigonometry, geometry, statistics and probability.
@@ -13,7 +13,7 @@ Learning mathematics for fun and implication in bioinformatics and machine learn
 
 After undergraduate mathematics, the learning of advanced topics will be the emphasis.
 
-##Method of learning:
+## Method of learning:
 
 - Solving problems and reading examples will be most important.
 - Cannot move to the next step unless the understanding of the basics seems weak. Unlike a classroom method of studying for a year and moving to next year's syllabus.
@@ -23,14 +23,14 @@ After undergraduate mathematics, the learning of advanced topics will be the emp
 
 Notes are written using LaTex, there will be questions from Project Euler(To help in learning programming) or Art of Solving Problems included. 
 
-##Online resources used:
+## Online resources used:
 
 1. https://proofindex.com/resources-for-undergrads
 2. https://tutorial.math.lamar.edu/
 3. https://web.evanchen.cc/napkin.html
 4. Professor Leonard Youtube.
 
-##Books used:
+## Books used:
 
 1. NCERT 10th class.
 2. R.D. Sharma Mathematics for class 11th and 12th.
