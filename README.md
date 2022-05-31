@@ -17,7 +17,7 @@ After undergraduate mathematics, the learning of advanced topics will be the emp
 
 - Solving problems and reading examples will be most important.
 - Cannot move to the next step unless the understanding of the basics seems weak. Unlike a classroom method of studying for a year and moving to next year's syllabus.  
-	Self-paced learning of this type should emphasise understanding each example and topic properly and then moving on. 
+	Self-paced learning of this type should emphasize understanding each example and topic properly and then moving on. 
 - After completion of each level of mathematics/bid topic, give me a final self-exam, without time limit, but also including all methods and examples in detail in each answer. 
 	Self-checking along with taking help to check my exam if possible. 
 
