@@ -25,7 +25,7 @@ Self-paced learning of this type should emphasize understanding each example and
 - After completion of each level of mathematics/bid topic, give me a final self-exam, without time limit, but also including all methods and examples in detail in each answer.
 Self-checking along with taking help to check my exam if possible.
 
-Notes are written using LaTex, there will be questions from Project Euler (To help in learning programming), Art of Problem Solving and other sources included.
+Notes are written using LaTex, there will be questions from Project Euler (To help in learning programming), CodeChef, CodeForces, Art of Problem Solving and other sources included.
 
 ## Topics studied till now
 
