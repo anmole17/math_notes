@@ -20,7 +20,7 @@ After undergraduate mathematics, the learning of advanced topics will be the emp
 - Solving problems and reading examples will be most important.
 
 - Cannot move to the next step unless the understanding of the basics seems weak. Unlike a classroom method of studying for a year and moving to next year's syllabus.  
-Self-paced learning of this type should emphasize understanding each example and topic properly and then moving on. 
+Self-paced learning of this type should emphasize understanding each example and topic properly and then moving on.
 
 - After completion of each level of mathematics/bid topic, give me a final self-exam, without time limit, but also including all methods and examples in detail in each answer.
 Self-checking along with taking help to check my exam if possible.
@@ -41,15 +41,19 @@ expansion.
 
 4. Statistics: fundamental concepts, Hypothesis testing and error analysis, including all important statistical tests for parametric and non parametric tests.
 
+5. Mathematics behind ML: on going
+
 ## Online resources used
 
-1. https://proofindex.com/resources-for-undergrads
-2. https://tutorial.math.lamar.edu/
-3. https://web.evanchen.cc/napkin.html
+1. <https://proofindex.com/resources-for-undergrads>
+2. <https://tutorial.math.lamar.edu/>
+3. <https://web.evanchen.cc/napkin.html> - Evan Chan : Napkin
 4. Professor Leonard Youtube.
+5. Introduction to Mathematical Thinking - Coursera
+6. Introduction to Calculus - Coursera
 
 ## Books used
 
 1. NCERT 10th class.
 2. R.D. Sharma Mathematics for class 11th and 12th.
-3. MAthematics for Machine Learning- Marc Peter D.
+3. Mathematics for Machine Learning - Marc Peter D.
