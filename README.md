@@ -53,6 +53,7 @@ Notes will be written using LaTex, there will be programming questions from Proj
 8. <https://projecteuler.chat/index.php>
 9. <https://tutorial.math.lamar.edu/>
 10. <https://www.feynmanlectures.caltech.edu/>
+11. <https://github.com/ossu/math>
 
 ## Books used
 
