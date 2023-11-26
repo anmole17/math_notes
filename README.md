@@ -41,7 +41,7 @@ Notes will be written using LaTex, there will be programming questions from Proj
 
 5. Mathematics behind ML: on going; currently taking a workshop on Linear Regression, Multiple Linear Regression, Non-Linear Regression, Logistic Regression, Classification, clustering, and Principal component analysis. 
 
-## Online resources used
+## Online resources related to maths(and a little extra)
 
 1. <https://proofindex.com/resources-for-undergrads>
 2. <https://tutorial.math.lamar.edu/>
@@ -50,6 +50,9 @@ Notes will be written using LaTex, there will be programming questions from Proj
 5. Introduction to Mathematical Thinking - Coursera
 6. Introduction to Calculus - Coursera
 7. Khan Academy
+8. <https://projecteuler.chat/index.php>
+9. <https://tutorial.math.lamar.edu/>
+10. <https://www.feynmanlectures.caltech.edu/>
 
 ## Books used
 
