@@ -54,7 +54,7 @@ Notes will be written using LaTex, there will be programming questions from Proj
 9. <https://tutorial.math.lamar.edu/>
 10. <https://www.feynmanlectures.caltech.edu/>
 11. <https://github.com/ossu/math>
-
+12. https://aimath.org/textbooks/
 ## Books used
 
 1. NCERT 10th class.
