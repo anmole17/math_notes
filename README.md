@@ -51,10 +51,9 @@ Notes will be written using LaTex, there will be programming questions from Proj
 6. Introduction to Calculus - Coursera
 7. Khan Academy
 8. <https://projecteuler.chat/index.php>
-9. <https://tutorial.math.lamar.edu/>
-10. <https://www.feynmanlectures.caltech.edu/>
-11. <https://github.com/ossu/math>
-
+9. <https://www.feynmanlectures.caltech.edu/>
+10. <https://github.com/ossu/math>
+11. https://aimath.org/textbooks/
 ## Books used
 
 1. NCERT 10th class.
