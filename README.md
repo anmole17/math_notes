@@ -47,7 +47,8 @@ Notes will be written using LaTex, there will be programming questions from Proj
 9. <https://www.feynmanlectures.caltech.edu/>
 10. <https://github.com/ossu/math>
 11. https://aimath.org/textbooks/
-12. Discord Server: micromath 
+12. Discord Server: micromath
+13. https://www.mathsisfun.com/
 ## Books used
 
 1. NCERT 10th class.
