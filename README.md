@@ -29,16 +29,9 @@ Notes will be written using LaTex, there will be programming questions from Proj
 ## Topics studied till now
 
 1. Linear algebra: Basics, including matricies, determinants, matrix algebra,etc
-2. Calculus:(Basics)
-    - Differentiation: Derivative of a function, differentiation, second and higher order derivatives, L'Hospital's rule for finding limits, implicit differentiation, partial derivatives, etc
-    - Integration: Indefinite integrals, integration methods. Summation of series, Riemann sums and definite
-    integral, evaluation of definite integrals, Area under the curve, average values of continuous
-    functions, etc
-
+2. Calculus(Basics)
 3. Sequence and series:Fundamental concepts, convergence tests, alternating series, series of a function and Taylor expansion.
-
 4. Statistics: fundamental concepts, Hypothesis testing and error analysis, including all important statistical tests for parametric and non parametric tests.
-
 5. Mathematics behind ML: on going; currently taking a workshop on Linear Regression, Multiple Linear Regression, Non-Linear Regression, Logistic Regression, Classification, clustering, and Principal component analysis. 
 
 ## Online resources related to maths(and a little extra)
@@ -54,8 +47,12 @@ Notes will be written using LaTex, there will be programming questions from Proj
 9. <https://www.feynmanlectures.caltech.edu/>
 10. <https://github.com/ossu/math>
 11. https://aimath.org/textbooks/
+12. Discord Server: micromath
+13. https://www.mathsisfun.com/
 ## Books used
 
 1. NCERT 10th class.
 2. R.D. Sharma Mathematics for class 11th and 12th.
 3. Mathematics for Machine Learning - Marc Peter D.
+4. Lang, Serge - Basic mathematics-Addison-Wesly Publishing Company (1971)
+5. Shay Fuchs - Introduction to Proofs and Proof Strategies 
