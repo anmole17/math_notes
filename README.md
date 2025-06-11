@@ -1,14 +1,14 @@
 # Road to understanding mathematics
 
 This is my journey to learn and understand mathematics from the basics to the advanced level.
-Learning mathematics for fun.
+This is to help me become better as a biologist who want to be a theoretical biologist and study evolution and stuff.
 
 ## Aims to complete
 
-1. Learn 10th class mathematics. -- Almost done
+1. Learn 10th class mathematics. -- Revision
 This includes basic algebra, trigonometry, geometry, statistics and probability.
 
-2. Learn 11th-12th class mathematics -- Working 
+2. Learn 11th-12th class mathematics -- Basics done, working on harder parts.
 This includes better and deep learning of pre-calculus and calculus. Along with other important topics.
 
 3. Undergraduate mathematics -- casually reading Napkin by Evan Chen   
@@ -32,27 +32,30 @@ Notes will be written using LaTex, there will be programming questions from Proj
 2. Calculus(Basics)
 3. Sequence and series:Fundamental concepts, convergence tests, alternating series, series of a function and Taylor expansion.
 4. Statistics: fundamental concepts, Hypothesis testing and error analysis, including all important statistical tests for parametric and non parametric tests.
-5. Mathematics behind ML: on going; currently taking a workshop on Linear Regression, Multiple Linear Regression, Non-Linear Regression, Logistic Regression, Classification, clustering, and Principal component analysis. 
+5. Mathematics behind ML: on going; learnt about Linear Regression, Multiple Linear Regression, Non-Linear Regression, Logistic Regression, Classification, clustering, Principal component analysis, Reinforcement learning, transformers and neural networks. More depth is required.
+6. Evolutionary game theory
 
 ## Online resources related to maths(and a little extra)
 
 1. <https://proofindex.com/resources-for-undergrads>
 2. <https://tutorial.math.lamar.edu/>
 3. <https://web.evanchen.cc/napkin.html> - Evan Chan : Napkin 
-4. Professor Leonard Youtube.
+4. Youtube: Michael Penn, 3blue1brown, Professor Leonard
 5. Introduction to Mathematical Thinking - Coursera
-6. Introduction to Calculus - Coursera
-7. Khan Academy
-8. <https://projecteuler.chat/index.php>
-9. <https://www.feynmanlectures.caltech.edu/>
-10. <https://github.com/ossu/math>
-11. https://aimath.org/textbooks/
-12. Discord Server: micromath
-13. https://www.mathsisfun.com/
+6. Khan Academy
+7. <https://projecteuler.chat/index.php>
+8. <https://www.feynmanlectures.caltech.edu/>
+9. <https://github.com/ossu/math>
+10. https://aimath.org/textbooks/
+11. Discord Server: micromath
+12. https://www.mathsisfun.com/
+
 ## Books used
 
-1. NCERT 10th class.
-2. R.D. Sharma Mathematics for class 11th and 12th.
-3. Mathematics for Machine Learning - Marc Peter D.
-4. Lang, Serge - Basic mathematics-Addison-Wesly Publishing Company (1971)
-5. Shay Fuchs - Introduction to Proofs and Proof Strategies 
+1. Mathematical Techniques: D.W. Jordan and P. Smith
+2. Mathematics for Machine Learning - Marc Peter D.
+3. Mathematical modelling in Biology: Henson and Hayward
+4. Evolutionary game theory J McKenzie Alexander
+5. Game-Theoretical Models in Biology: Broom and Raychtar
+6. Other books I have pdf of, for what I could catch hold any resource of, are here.
+
