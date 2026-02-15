@@ -5,13 +5,13 @@ This is to help me become better as a biologist who want to be a theoretical bio
 
 ## Aims to complete
 
-1. Learn 10th class mathematics. -- Revision
+1. Learn 10th class mathematics. -- Mainly Pre-calculus stuff
 This includes basic algebra, trigonometry, geometry, statistics and probability.
 
 2. Learn 11th-12th class mathematics -- Basics done, working on harder parts.
 This includes better and deep learning of pre-calculus and calculus. Along with other important topics.
 
-3. Undergraduate mathematics -- casually reading Napkin by Evan Chen   
+3. Undergraduate mathematics -- casually reading Napkin by Evan Chen, and complete udemy and courseara courses 
 After undergraduate mathematics, the learning of advanced topics will be the emphasis.
 
 ## Method of learning
@@ -24,16 +24,16 @@ Self-paced learning of this type should emphasize understanding each example and
 - After completion of each level of mathematics/bid topic, give myself a final self-exam, including all methods and examples in detail in each answer(godspeed, I am making things harder for me).
 *Self-checking along with taking help to check my exam if possible.
 
-Notes will be written using LaTex, there will be programming questions from Project Euler (To help in learning programming) solved so I learn how to make cool graphs and show proofs using programming.
+Notes will be written using LaTex/notes written on tablet(I prefer hand written than typed), there will be programming questions from Project Euler (To help in learning programming: Doing this using Julia, C and Rust[preference based on mood]) solved so I learn how to make cool graphs and show proofs using programming.
 
 ## Topics studied till now
 
 1. Linear algebra: Basics, including matricies, determinants, matrix algebra,etc
 2. Calculus(Basics)
 3. Sequence and series:Fundamental concepts, convergence tests, alternating series, series of a function and Taylor expansion.
-4. Statistics: fundamental concepts, Hypothesis testing and error analysis, including all important statistical tests for parametric and non parametric tests.
+4. Statistics: Hypothesis testing and error analysis, including all important statistical tests for parametric and non parametric tests.
 5. Mathematics behind ML: on going; learnt about Linear Regression, Multiple Linear Regression, Non-Linear Regression, Logistic Regression, Classification, clustering, Principal component analysis, Reinforcement learning, transformers and neural networks. More depth is required.
-6. Evolutionary game theory
+6. Evolutionary game theory and Game Theory in general
 
 ## Online resources related to maths(and a little extra)
 
@@ -41,13 +41,12 @@ Notes will be written using LaTex, there will be programming questions from Proj
 2. <https://tutorial.math.lamar.edu/>
 3. <https://web.evanchen.cc/napkin.html> - Evan Chan : Napkin 
 4. Youtube: Michael Penn, 3blue1brown, Professor Leonard
-5. Introduction to Mathematical Thinking - Coursera
+5. Online courses: Coursera and Udemy(Hania Uscka-Wehlou)
 6. Khan Academy
 7. <https://projecteuler.chat/index.php>
-8. <https://www.feynmanlectures.caltech.edu/>
+8. <https://www.feynmanlectures.caltech.edu/> : Some Physiscs is nice
 9. <https://github.com/ossu/math>
 10. https://aimath.org/textbooks/
-11. Discord Server: micromath
 12. https://www.mathsisfun.com/
 
 ## Books used
@@ -55,7 +54,7 @@ Notes will be written using LaTex, there will be programming questions from Proj
 1. Mathematical Techniques: D.W. Jordan and P. Smith
 2. Mathematics for Machine Learning - Marc Peter D.
 3. Mathematical modelling in Biology: Henson and Hayward
-4. Evolutionary game theory J McKenzie Alexander
+4. Evolutionary game theory by J McKenzie Alexander
 5. Game-Theoretical Models in Biology: Broom and Raychtar
-6. Other books I have pdf of, for what I could catch hold any resource of, are here.
+6. Other books I have pdf of, for what I could catch hold any resource of, are here. I plan to sort them into appropriate folders. 
 
