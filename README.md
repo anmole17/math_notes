@@ -14,6 +14,8 @@ This includes better and deep learning of pre-calculus and calculus. Along with 
 3. Undergraduate mathematics -- casually reading Napkin by Evan Chen, and complete udemy and courseara courses 
 After undergraduate mathematics, the learning of advanced topics will be the emphasis.
 
+4. Mathematical modelling for Biology(especially Evolution and Ecology)
+
 ## Method of learning
 
 - Solving problems and reading examples will be most important.
